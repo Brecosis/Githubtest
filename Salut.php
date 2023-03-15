@@ -2,4 +2,4 @@
 
 $bravo = "Bien joué !";
 
-echo $bravo;
+echo $bravo; //affiche bravo
