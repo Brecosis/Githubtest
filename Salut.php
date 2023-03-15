@@ -1,0 +1,3 @@
+<?php
+
+$bravo = "Bien joué !";
